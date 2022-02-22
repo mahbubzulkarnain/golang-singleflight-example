@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/mahbubzulkarnain/golang-singleflight-example/internal/delivery/http"
+	"github.com/mahbubzulkarnain/golang-singleflight-example/internal/handler/http"
 	"github.com/mahbubzulkarnain/golang-singleflight-example/internal/repository"
 	"github.com/mahbubzulkarnain/golang-singleflight-example/internal/service"
 	"github.com/mahbubzulkarnain/golang-singleflight-example/pkg/gorm/psql"
